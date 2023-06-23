@@ -2,9 +2,9 @@
   --body-bg-color: #fff;
   --content-bg-color: #fff;
   --card-bg-color: #f5f5f5;
-  --text-color: #555;
+  --text-color: #fff;
   --blockquote-color: #666;
-  --link-color: #555;
+  --link-color: #fff;
   --link-hover-color: #222;
   --brand-color: #fff;
   --brand-hover-color: #fff;
@@ -575,7 +575,7 @@ pre code {
   width: 100%;
 }
 .post-body .label {
-  color: #555;
+  color: #fff;
   padding: 0 2px;
 }
 .post-body .label.default {
@@ -2335,7 +2335,7 @@ header.header {
 }
 .menu .menu-item .badge {
   background: #eee;
-  color: #555;
+  color: #fff;
   padding: 1px 4px;
 }
 .sub-menu {
@@ -2370,7 +2370,7 @@ header.header {
   z-index: 20;
 }
 .sidebar a {
-  border-bottom-color: #555;
+  border-bottom-color: #fff;
   color: #999;
 }
 .sidebar a:hover {
@@ -2381,14 +2381,14 @@ header.header {
   margin-top: 15px;
 }
 .links-of-author a {
-  border-bottom-color: #555;
+  border-bottom-color: #fff;
   display: inline-block;
   margin-bottom: 10px;
   margin-right: 10px;
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #d9e5ff;
+  background: #ff9045;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
